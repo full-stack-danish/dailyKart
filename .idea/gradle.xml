@@ -25,6 +25,7 @@
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/commons" />
             <option value="$PROJECT_DIR$/selllers" />
           </set>
         </option>
@@ -34,6 +35,7 @@
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/commons" />
             <option value="$PROJECT_DIR$/users" />
           </set>
         </option>
